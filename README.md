@@ -17,3 +17,10 @@ PUT outcomes:
 }
 </p>
 
+PATCH outcome:
+<br> new author <br>
+<img width="857" height="401" alt="image" src="https://github.com/user-attachments/assets/f0bd3e5f-c8bf-461f-9f63-8e605057fd32" />
+<br> new title <br>
+<img width="851" height="394" alt="image" src="https://github.com/user-attachments/assets/eb2b5d7e-838a-46d8-99dd-abf2b14dc4a7" />
+<br> new price <br>
+<img width="851" height="398" alt="image" src="https://github.com/user-attachments/assets/d1a66111-1532-4ce4-aaad-77288e7b4555" />
