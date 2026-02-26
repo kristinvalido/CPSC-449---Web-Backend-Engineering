@@ -8,12 +8,12 @@ PUT outcomes:
 <img width="881" height="395" alt="image" src="https://github.com/user-attachments/assets/c402db37-aa14-42c8-b265-86534ba53934" />
 <img width="886" height="350" alt="image" src="https://github.com/user-attachments/assets/c1cbf0af-2e64-4f48-9f89-c36e425b76da" />
 <img width="882" height="394" alt="image" src="https://github.com/user-attachments/assets/3cd81285-6953-42d4-a297-97fba7b2ca54" />
-JSON:
-{
+<p>JSON:<br>
+{<br>
     "id" : 7, <br>
     "title" : "new book", <br>
     "author" : "Kristin Valido", <br>
-    "price" : 77.77
+    "price" : 77.77<br>
 }
-
+</p>>
 
