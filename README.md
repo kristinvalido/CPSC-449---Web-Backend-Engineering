@@ -24,3 +24,7 @@ PATCH outcome:
 <img width="851" height="394" alt="image" src="https://github.com/user-attachments/assets/eb2b5d7e-838a-46d8-99dd-abf2b14dc4a7" />
 <br> new price <br>
 <img width="851" height="398" alt="image" src="https://github.com/user-attachments/assets/d1a66111-1532-4ce4-aaad-77288e7b4555" />
+
+DELETE outcome:
+<br> deleted book 10
+<img width="867" height="403" alt="image" src="https://github.com/user-attachments/assets/44bedc59-b49f-422b-8c1d-f47c7005f296" />
