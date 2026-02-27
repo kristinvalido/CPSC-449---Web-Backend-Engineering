@@ -30,16 +30,16 @@ DELETE outcome:
 <img width="867" height="403" alt="image" src="https://github.com/user-attachments/assets/44bedc59-b49f-422b-8c1d-f47c7005f296" />
 
 PAGINATION outcome:
-<br> 
+<br> page = 1 & numBooks = 5
 
 
 <img width="889" height="467" alt="image" src="https://github.com/user-attachments/assets/8557d5fe-6149-4914-9f68-44c115e19607" />
 <img width="890" height="436" alt="image" src="https://github.com/user-attachments/assets/47bb4909-0d1e-4ac5-9f36-8ed5f9a60dbe" />
 
-
+page = 0 & numBooks = 3
 
 <img width="899" height="440" alt="image" src="https://github.com/user-attachments/assets/e9979df5-98db-40c5-943d-7ebba0c0b93e" />
 
-
+page = 1 & numBooks = 4
 <img width="902" height="442" alt="image" src="https://github.com/user-attachments/assets/ab59179e-3d11-456a-b199-d08cfb1a50f4" />
 <img width="889" height="424" alt="image" src="https://github.com/user-attachments/assets/48136961-195b-4e33-a2ce-b1c4eccd355c" />
