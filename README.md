@@ -43,3 +43,11 @@ page = 0 & numBooks = 3
 page = 1 & numBooks = 4
 <img width="902" height="442" alt="image" src="https://github.com/user-attachments/assets/ab59179e-3d11-456a-b199-d08cfb1a50f4" />
 <img width="889" height="424" alt="image" src="https://github.com/user-attachments/assets/48136961-195b-4e33-a2ce-b1c4eccd355c" />
+
+
+ADVANCED GET outcome:
+<br> filter by author, page =0, numBooks = 3 <br>
+<img width="892" height="416" alt="image" src="https://github.com/user-attachments/assets/edd68783-9be7-4445-a35d-0634302c29aa" />
+
+
+
