@@ -46,6 +46,7 @@ page = 1 & numBooks = 4
 
 
 ADVANCED GET outcome:
+<br> for this one I had to change the names of the authors so it would have a variety because before it was author 1, author 2, etc. <br>
 <br> filter by author, page =0, numBooks = 3 <br>
 <img width="892" height="416" alt="image" src="https://github.com/user-attachments/assets/edd68783-9be7-4445-a35d-0634302c29aa" />
 
