@@ -26,7 +26,7 @@ PATCH outcome:
 <img width="851" height="398" alt="image" src="https://github.com/user-attachments/assets/d1a66111-1532-4ce4-aaad-77288e7b4555" />
 
 DELETE outcome:
-<br> deleted book 10
+<br> deleted book 10 <br>
 <img width="867" height="403" alt="image" src="https://github.com/user-attachments/assets/44bedc59-b49f-422b-8c1d-f47c7005f296" />
 
 PAGINATION outcome:
@@ -49,5 +49,8 @@ ADVANCED GET outcome:
 <br> filter by author, page =0, numBooks = 3 <br>
 <img width="892" height="416" alt="image" src="https://github.com/user-attachments/assets/edd68783-9be7-4445-a35d-0634302c29aa" />
 
+<br> maxPrice = 30, page = 0, numBooks = 5 <br>
+<img width="889" height="398" alt="image" src="https://github.com/user-attachments/assets/d2fb0acf-db7d-4ca6-a5df-4b214e4e678a" />
+<img width="869" height="403" alt="image" src="https://github.com/user-attachments/assets/b35c2bf4-9bef-45af-8518-8830f4ecf5f0" />
 
 
