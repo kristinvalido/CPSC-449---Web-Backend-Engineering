@@ -16,7 +16,8 @@ Successsfully created an admin and user
 Sucessfully creating a book and getting Id
 
 4. Test Scenario 1 — ADMIN can delete (must pass)
-   
+   <img width="1735" height="998" alt="Screenshot 2026-04-20 231256" src="https://github.com/user-attachments/assets/240a4b44-6053-4604-9458-b3877c013676" />
+Successfully logged in and got token as admin
    <img width="1712" height="962" alt="Screenshot 2026-04-20 214832" src="https://github.com/user-attachments/assets/e9fc36a8-244e-4526-bef1-ca588cd7ea2d" />
 Admin Successfully deleting book, used header to apply token for authorization.
 
